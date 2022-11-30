@@ -32,7 +32,7 @@ max(maxGold, goldCollected);
 } 
  
 // Driver Code int 
-main() { 
+int main() { 
  vector<vector<int>> gold { {1, 3, 1, 5}, 
  {2, 2, 4, 1},
  {5, 0, 2, 3}, 
